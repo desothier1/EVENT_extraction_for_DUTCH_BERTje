@@ -64,3 +64,4 @@ for sentence in sentencesval:
 In this paper, the event extraction approach is outlined and research has been conducted using the above mentioned python scripts :
 
 **Thierry Desot, Orphée De Clercq, and Veronique Hoste. *"Event Prominence Extraction Combining a Knowledge-Based Syntactic Parser and a BERT Classifier for Dutch."* Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)**
+[RANLP_2021_events_paper_76.pdf](https://github.com/desothier1/EVENT_extraction_for_DUTCH_BERTje/files/9078861/RANLP_2021_events_paper_76.pdf)
