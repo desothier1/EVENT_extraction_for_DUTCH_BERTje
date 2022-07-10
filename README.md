@@ -49,7 +49,7 @@ for sentence in sentencesval:
       - path to file is specified in the python script :  'Data_offic/prominence_heldout_test.csv'
       - path to training file should also be specified in the python script :  'Data_offic/train_dev_test_in_one_out.csv'
     - Metrics : Precision, Recall and F-score are automatically generated.
-   - This test script (and the one without reference labels, as specified below) reads the generated BERT tokenizer and model that were automatically saved into *Data_offic* folder after running *train.py*. 
+   - This test script (and the one *without* taking reference labels into account, as specified below) reads the generated BERT tokenizer and model that were automatically saved into *Data_offic* folder after running *train.py*. 
     - However, the name of the fine-tuned model, also generated in the *Data_offic* folder should be specified in this test script. In the current *train.py*, *test.py* and *test_hypoth_only.py* a model of training for 1 epoch was targeted :
 ``` 
    model.load_state_dict(torch.load('finetuned_BERT_epoch_1.model', map_location=torch.device('cpu')))
