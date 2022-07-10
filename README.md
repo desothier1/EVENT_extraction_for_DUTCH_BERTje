@@ -42,4 +42,4 @@ Clone the folder structure and preserve it exactly as it is in the repo for usin
 
 In this paper, the event extraction approach is outlined and research has been conducted using the above mentioned python scripts :
 
-Desot, Thierry, Orphée De Clercq, and Veronique Hoste. *"Event Prominence Extraction Combining a Knowledge-Based Syntactic Parser and a BERT Classifier for Dutch."* Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021). 
+**Desot, Thierry, Orphée De Clercq, and Veronique Hoste. *"Event Prominence Extraction Combining a Knowledge-Based Syntactic Parser and a BERT Classifier for Dutch."* Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)**
