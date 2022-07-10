@@ -27,6 +27,21 @@ Clone the folder structure in your target directory and preserve it exactly as i
 - syntax for training:
    - *python train.py*
       - path to file is specified in the python script :  'Data_offic/train_dev_test_in_one_out.csv'
+      - In this version, the maximum token length is set to 69 (twice for traing and dev/validation set in data loader). For other train data, this value should be adapted. Automatically, the longest token length is printed to the screen for the used training set. Interrupt running, and adapt the max. token length in train.py, and run again:
+```
+max_length=69
+...
+for sentence in sentencestrain:
+    text = tokenizer.tokenize(sentence)
+    tokenids_lengths.append(len(text))
+
+#
+print("\t\tmaximum token length in train set:",max(tokenids_lengths))
+for sentence in sentencesval:
+    text = tokenizer.tokenize(sentence)
+    tokenids_lengths.append(len(text))
+
+```
       
       
 - syntax for testing, using test set *with* reference labels included :
