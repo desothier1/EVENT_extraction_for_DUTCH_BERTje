@@ -1,6 +1,6 @@
 # EVENT extraction for DUTCH using a transformer BERT model, BERTje
 
-Clone the folder structure and preserve it exactly as it is in the repo for using the train and test python scripts as specified in the root folder : 
+Clone the folder structure in your target directory and preserve it exactly as it is in the repo for using the train and test python scripts as specified in the root folder : 
    - *git clone https://github.com/desothier1/EVENT_extraction_for_DUTCH_BERTje.git*
    - Install libraries as specified in *requirements.txt*. Optimal use of the training script with GPU requires CUDA, however it will also run with CPU.
         - torch==1.10.2
