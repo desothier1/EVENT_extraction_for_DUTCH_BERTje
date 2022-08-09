@@ -70,3 +70,14 @@ In this paper, the event extraction approach is outlined and research has been c
 The presentation on RANLP 2021 conference is also included.
 
 [01092021_RANLP.pdf](https://github.com/desothier1/EVENT_extraction_for_DUTCH_BERTje/files/9078878/01092021_RANLP.pdf)
+
+
+## Cosine similarity 
+
+- Script cosine_sim_prom.py (subfolder cosine_similarity)to align and compare annotated (reference) event spans script (OVERVIEW_annot.txt) with predicted syntact. constituents (ALLFILES_OVERVIEW_PROM.txt) , classified as event labels, to take into account an unequal number of annotated events and predicted classified syntactic constituents per input sentence.
+- syntax : pytnon cosine_sim_prom.py
+- combining sentence BERT and cosine similarity, the syntactic constituent is selected that is semantically closest to the annotated event.
+- 2 output files REF.txt (annotated events) and HYP.txt (predicted syntactic constituents classified as events) are generated with an equal number of intsances, ready to calculate accuracy, precision, recall or F score.
+
+
+
