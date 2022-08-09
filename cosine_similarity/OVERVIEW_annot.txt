@@ -1,0 +1,6 @@
+dmf20211124_98456951	1	Main	negative	1	Jonge dokters trekken in open brief aan alarmbel
+dmf20211124_98456951	2	Main	negative	1	De huisarts is op
+dmf20211124_98456951	3	Main	negative	2	Jong Domus , de vereniging van jonge huisartsen in ons land , trekt aan de alarmbel
+dmf20211124_98456951	4	Background	neutral	3	In een open brief benadrukt de vereniging
+dmf20211124_98456951	5	Main	negative	3	het voor huisartsen onhaalbaar is om het hoofd boven water te houden tijdens deze vierde coronagolf
+dmf20211124_98456951	6	Background	neutral	4	We willen terug naar onze zorgtaken

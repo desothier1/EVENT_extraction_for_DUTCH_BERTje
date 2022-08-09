@@ -1,0 +1,7 @@
+dmf20211124_98456951	1	1	Jonge dokters trekken in open brief aan alarmbel	Main
+dmf20211124_98456951	1	2	De huisarts is op	Main
+dmf20211124_98456951	2	1	Jong Domus , de vereniging van jonge huisartsen in ons land , trekt aan de alarmbel	Main
+dmf20211124_98456951	3	1	In een open brief benadrukt de vereniging dat het voor huisartsen onhaalbaar is	Background
+dmf20211124_98456951	3	2	om het hoofd boven water te houden	None
+dmf20211124_98456951	4	1	We willen terug naar onze zorgtaken	None
+dmf20211124_98456951	4	2	het is genoeg geweest	None
