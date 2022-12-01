@@ -42,8 +42,7 @@ for sentence in sentencesval:
     tokenids_lengths.append(len(text))
 
 ```
-      
-      
+            
 - syntax for testing, using test set *with* reference labels included :
    - *python test.py*
       - path to file is specified in the python script :  'Data_offic/prominence_heldout_test.csv'
